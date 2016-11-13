@@ -1,0 +1,15 @@
+Package: rgmm
+Type: Package
+Title: EM estimation and plotting of (Semi-Wrapped) Gaussian Mixture Models
+Description: EM estimation and plotting for (Semi-Wrapped) Gaussian Mixture Models.
+Version: 2.9.4
+Date: 2016-11-13
+Author: Alexander Lehmann
+Maintainer: Alexander Lehmann <afwlehmann@googlemail.com>
+License: LGPL-3
+Imports:
+    gplots,
+    cubature
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
